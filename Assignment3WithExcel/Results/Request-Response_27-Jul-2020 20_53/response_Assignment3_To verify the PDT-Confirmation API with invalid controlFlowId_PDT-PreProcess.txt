@@ -1,0 +1,1 @@
+{"controlFlowId":"3807889002505072322b4c686a37703767644c695575443944744779325744373249416132537a59396b413d","debitDetails":{"transactionDebitAmount":400,"currencyCode":"BHD"},"creditDetails":{"transactionCreditAmount":400,"currencyCode":"BHD"},"foreignExchangeRate":1,"transactionFee":0,"feeCurrencyCode":"BHD"}

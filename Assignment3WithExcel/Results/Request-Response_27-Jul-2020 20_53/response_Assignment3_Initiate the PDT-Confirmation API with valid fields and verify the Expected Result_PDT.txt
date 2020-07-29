@@ -1,0 +1,1 @@
+{"SourceAccount":{"displaySourceAccountNumber":"XXXXXX7875","sourceAccountAvailableBalance":9000,"sourceCurrencyCode":"BHD"},"DestinationAccount":{"displayDestinationAccountNumber":"XXXXXX9556","destinationAccountAvailableBalance":40982.18,"destinationCurrencyCode":"BHD"},"transactionReferenceId":"HBKFT6864857X00334094"}

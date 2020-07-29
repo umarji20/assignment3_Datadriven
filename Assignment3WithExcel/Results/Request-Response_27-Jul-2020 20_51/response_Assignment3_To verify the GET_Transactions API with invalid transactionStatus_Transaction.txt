@@ -1,0 +1,14 @@
+{
+  "type":"invalid",
+  "code":"invalidRequest",
+  "details":"Missing or invalid Parameters",
+  "moreInfo":{
+    "fieldLevelErrors":[
+      {
+        "fieldName":"/APIProcessInput/QueryParams/Param[Name='transactionStatus']/Value",
+        "reasonCode":"invalidReference",
+        "errorMessage":"Required Valid Reference Data"
+      }
+    ]
+  }
+}

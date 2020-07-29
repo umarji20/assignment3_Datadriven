@@ -1,0 +1,9 @@
+{
+  "sourceAccountId": "${#TestCase#Invalid_SourceAccuntID}",
+  "transactionAmount": "${#TestCase#transactionAmount}",
+  "transferCurrencyIndicator": "${#TestCase#transferCurrencyIndicator}",
+  "destinationAccountId": "${#TestCase#destinationAccountId}",
+  "chargeBearer": "${#TestCase#chargeBearer}",
+  "fxDealReferenceNumber": "${#TestCase#fxDealReferenceNumber}",
+  "remarks": "${#TestCase#remarks}"
+}

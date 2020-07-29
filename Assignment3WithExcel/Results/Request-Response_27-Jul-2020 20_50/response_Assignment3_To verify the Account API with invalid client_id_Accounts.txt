@@ -1,0 +1,1 @@
+{ "type":"unAuthorized", "code":"401", "details":"Authorization credentials are missing or invalid" }
